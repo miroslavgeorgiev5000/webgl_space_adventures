@@ -6,4 +6,4 @@ uses sylvester.js library
 
 live demo: http://electricity256.com/projects/webgl_space_adventures
 
-use arrow keys
+use WASD keys
